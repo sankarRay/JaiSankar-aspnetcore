@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JaiSankar.BookStore/.vs/JaiSankar.BookStore
+/JaiSankar.BookStore/JaiSankar.BookStore/bin/Debug/netcoreapp3.1
+/JaiSankar.BookStore/JaiSankar.BookStore/obj
